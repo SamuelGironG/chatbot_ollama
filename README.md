@@ -48,3 +48,4 @@ Elige un modelo, escribe el mensaje y pulsa **Enviar** o `Enter`. La aplicación
 └── README.md
 ```
 clonar repositorio
+https://github.com/SamuelGironG/chatbot_ollama.git
